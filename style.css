@@ -1,0 +1,22 @@
+body{
+    padding-top: 50px;
+}
+
+
+#catalog .container{
+    background-color: #F5F5F5;
+}
+
+h2{
+    color: #7D5A50;
+    text-align: center;
+    border-bottom: 2px solid bisque;
+}
+
+.carousel-item > img{
+    height: 400px;
+}
+
+.carousel-caption > h5{
+    color: black;
+}
